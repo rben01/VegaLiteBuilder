@@ -1,11 +1,12 @@
 {
   "name": "vegaliteassets",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "dependencies": {
-    "canvas": "2.7.0",
+    "canvas": "2.9.1",
+    "@mapbox/node-pre-gyp": "1.0.8",
     "vega": "5.22.0",
     "vega-cli": "5.22.0",
-    "vega-embed": "6.17.0",
+    "vega-embed": "6.20.8",
     "vega-lite": "5.2.0"
   }
 }
